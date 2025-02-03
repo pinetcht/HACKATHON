@@ -1,13 +1,13 @@
 # PROJECT 5Care  ~ We Grow Together~
 link to prototype: https://ygca2021.wixsite.com/5carecollective
 
-0. Team Information
+## Team Information
    
-Project Title: 5Care ~ We Grow Together~
+**Project Title**: 5Care ~ We Grow Together~
 Teammates’ names: Catherine Byen, Pine Netcharussaeng, Alison Tu, Grace Chang
 
 
-The outline [300 words or less]
+### The outline [300 words or less]
 The outline is a brief description of your project (i), its purpose (ii), and how it works (iii). Paste your outline into the textbox in the project submission page. Below is a more detailed information of each of the 3 items given above:
 
 
@@ -25,7 +25,7 @@ We hope to engage with as much of the population as possible while also normaliz
 
 
 
-(i) Project Description 
+### (i) Project Description 
 Briefly discuss the content of your project. Make sure to include the following:
 Which Project Track you approached (only one)
 Which Overlays apply to your project (can be any number)
@@ -38,7 +38,7 @@ What programming languages, tools, or other mediums did you use and how?
 * Overall, our project represents a significant step forward in our efforts to build a more sustainable and equitable future. We are excited about the potential impact of our project and are committed to continuing to refine and improve our approach in the months and years to come.
 
 
-(ii) Purpose 
+### (ii) Purpose 
 What problem were you tackling with your project? Try to detail your team’s motivation, and explain why you believe your project matters. What is the future of your project and how does it make the world better, good-er?
 * We are addressing a crucial problem faced by Claremont College students with our project. Currently, there is a lack of comprehensive platforms that allow students to request mutual aid and share resources. This can be attributed to several factors, including the presence of barriers that make it difficult for individuals to seek and provide mutual aid, as well as a lack of awareness about existing mutual aid requests. 
 Area 1: 
@@ -58,7 +58,7 @@ Area 2:
 * In summary, our project aims to improve the economic circulation and environmental health of the community. We believe that by addressing these critical issues, we can make a positive impact on the world and create a better future for all.
 
 
-* (iii) How it works 
+### (iii) How it works 
 Specify what someone can do with your project or how someone would interact with it. 
 If your team made an app or website, how should the user navigate it? 
 If your team worked on data science/data analysis, how did you parse the data and what tools did you use to draw meaningful conclusions? If you made visualizations, what do those tell the viewer?
@@ -84,7 +84,7 @@ If your team worked on data science/data analysis, how did you parse the data an
       * To buy art, users will go to the arts page, where there are multiple posts of art on sale. Users will then click on the art that they are interested in purchasing, which will bring them to a popup page with the item description, the seller contact info, and users will be able to conduct payments here. Users will also be able to make suggestions on which mutual aid that they will like the seller to donate to.
 
 
-Ethics
+## Ethics
 
 Our product aims to help 5C students in need both financially and non-financially. We also want to help the earth through recycling by reselling second hand items for mutual aid. Students and the Earth would ideally benefit from our product. Because the target group for our website is 5C students, we are leaving out people in the larger community. 
 As a result, we might be excluding people outside of the 5Cs who really need the funds we could have raised. A potential harmful use of this website is raising funds for illegitimate purposes. Students who donated to these counterfeit causes could be donating to something they did not sign up for. However, assessing legitimacy before approving 
